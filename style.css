@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 200px;
+    width: 400px;
+}
+
+.form-select{
+    width: 200px;
+}
+.equal{
+    height: 20px;
+}
+
+span.equal {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+select.form-select.my-2 {
+    background-color: #c795f6;
+    color: white;
+}
+
+button#btn {
+    width: 100%;
+}
